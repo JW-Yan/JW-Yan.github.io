@@ -25,6 +25,8 @@ Jump to [master and bachelor students](#master-and-bachelor), [alumni](#alumni),
     <p> Email: jingyan@iu.edu </p>
     <p> Office: IT Building 481 </p>
   </div>
+  <div class="col-sm-6">
+  </div>
 </div
 ## PhD Students
 {% assign number_printed = 0 %}
