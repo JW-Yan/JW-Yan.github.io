@@ -15,10 +15,8 @@ Jump to [master and bachelor students](#master-and-bachelor), [alumni](#alumni),
 
 ## Principle Investigator
 <div class = "row">
-  <div class="col-sm-6">
+  <div class="col-sm-6 clearfix">
     <img src = "{{ site.url }}{{ site.baseurl }}/images/profile.jpg" class = "img-responsive" width="25%" style="float: left" } />
-  </div>
-  <div class="col-sm-6" >
     <h4> Dr. Jingwen Yan </h4>
     <i> Assistant Professor, Bioinformatics </i>
     <i> IUPUI </i>
