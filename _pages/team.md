@@ -14,13 +14,15 @@ permalink: /team/
 Jump to [master and bachelor students](#master-and-bachelor), [alumni](#alumni), [lab visitors](#lab-visitors).
 
 ## Principle Investigator
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"} 
-<p> Dr. Jingwen Yan </p>
-<p> Assistant Professor, Bioinformatics </p>
-<p> IUPUI </p>
-<p> Email: jingyan@iu.edu </p>
-<p> Office: IT 481 </p>
 
+![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"} 
+<div class="col-sm-6">
+  <p> Dr. Jingwen Yan </p>
+  <p> Assistant Professor, Bioinformatics </p>
+  <p> IUPUI </p>
+  <p> Email: jingyan@iu.edu </p>
+  <p> Office: IT 481 </p>
+</div>
 ## PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
