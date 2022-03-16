@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [lab visitors](#lab-visitors).
+Jump to [master and bachelor students](#master-and-bachelor), [alumni](#alumni), [lab visitors](#lab-visitors).
 
 ## Principle Investigator
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"} 
@@ -21,7 +21,7 @@ Jump to [master and bachelor students](#master-and-bachelor-students), [alumni](
 <p> Email: jingyan@iu.edu </p>
 <p> Office: IT 481 </p>
 
-## Staff
+## PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
 
@@ -86,7 +86,7 @@ Jump to [master and bachelor students](#master-and-bachelor-students), [alumni](
 
 
 
-## Master and Bachelor Students
+## Master and Bachelor Students<a name="master-and-bachelor"></a>
 {% assign number_printed = 0 %}
 {% for member in site.data.students %}
 
@@ -173,7 +173,7 @@ Jump to [master and bachelor students](#master-and-bachelor-students), [alumni](
 </div>
 {% endif %}
 
-## Former visitors, BSc/ MSc students
+## Former visitors, BSc/ MSc students<a name="alumni"></a>
 <div class="row">
 
 <div class="col-sm-4 clearfix">
@@ -199,6 +199,3 @@ Jump to [master and bachelor students](#master-and-bachelor-students), [alumni](
 
 </div>
 
-
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
