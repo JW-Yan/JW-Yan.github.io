@@ -18,9 +18,9 @@ Jump to [master and bachelor students](#master-and-bachelor), [alumni](#alumni),
 ![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 180px; float: left; margin: 0px 10px; padding-right:20px""} 
 
 <br/>
-&nbsp;&nbsp;&nbsp;&nbsp; #### Dr. Jingwen Yan 
-&nbsp;&nbsp;&nbsp;&nbsp; *Assistant Professor, Bioinformatics*   
-&nbsp;&nbsp;&nbsp;&nbsp; *IUPUI*   
+&nbsp;&nbsp;&nbsp;&nbsp; #### Dr. Jingwen Yan   
+&nbsp;&nbsp;&nbsp;&nbsp; *Assistant Professor, Bioinformatics*     
+&nbsp;&nbsp;&nbsp;&nbsp; *IUPUI*     
   
 &nbsp;&nbsp;&nbsp;&nbsp; Email: jingyan@iu.edu   
 &nbsp;&nbsp;&nbsp;&nbsp; Office: IT Building 481   
