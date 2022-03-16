@@ -17,12 +17,12 @@ Jump to [master and bachelor students](#master-and-bachelor), [alumni](#alumni),
   
 ![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 180px; float: left; margin: 15px 30px 15px 0px;"} 
 
-#### Dr. Jingwen Yan
+#### Jingwen Yan, Ph.D
 *Assistant Professor, Bioinformatics*     
 *IUPUI*     
   
-Email: jingyan@iu.edu   
-Office: IT Building 481   
+Email: jingyan@iu.edu    
+Office: IT 481   
 Phone (Office): (317) 278-7668  
 
 
