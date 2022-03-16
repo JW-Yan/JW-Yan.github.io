@@ -14,9 +14,9 @@ permalink: /team/
 Jump to [master and bachelor students](#master-and-bachelor), [alumni](#alumni), [lab visitors](#lab-visitors).
 
 ## Principle Investigator
+![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 250px; float: left; margin: 0px 10px"} 
 <div class = "row">
   <div class="col-sm-6 clearfix">
-    <img src = "{{ site.url }}{{ site.baseurl }}/images/profile.jpg" class = "img-responsive" width="25%" style="float: left" } />
     <h4> Dr. Jingwen Yan </h4>
     <i> Assistant Professor, Bioinformatics </i>
     <i> IUPUI </i>
