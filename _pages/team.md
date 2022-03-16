@@ -146,7 +146,7 @@ Phone (Office): (317) 278-7668
 ## Bachelor Students<a name="bachelor"></a>
 <div class="row">
 
-<div class="col-sm-8 clearfix">
+<div class="col-sm-12 clearfix">
 {% for member in site.data.alumni_visitors %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo}}" class="img-responsive" width="25%" style="float: left" />
   <h4>{{ member.name }}</h4>
@@ -157,8 +157,7 @@ Phone (Office): (317) 278-7668
 ## Lab Visitors<a name="lab-visitors"></a>
 
 <div class="row">
-<div class="col-sm-8 clearfix">
-<h4>Visitors</h4>
+<div class="col-sm-12 clearfix">
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
@@ -169,8 +168,7 @@ Phone (Office): (317) 278-7668
 ## Alumni<a name="alumni"></a>
 
 <div class="row">
-<div class="col-sm-8 clearfix">
-<h4>Visitors</h4>
+<div class="col-sm-12 clearfix">
 {% for member in site.data.alumni_visitors %}
 {{ member.name }}
 {% endfor %}
