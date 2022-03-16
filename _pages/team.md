@@ -15,7 +15,7 @@ Jump to [master and bachelor students](#master-and-bachelor), [alumni](#alumni),
 
 ## Principle Investigator
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 250px; float: left; margin: 0px  10px"} 
 <div class="col-sm-6">
   <p> Dr. Jingwen Yan </p>
   <p> Assistant Professor, Bioinformatics </p>
