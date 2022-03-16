@@ -16,17 +16,18 @@ Jump to [master and bachelor students](#master-and-bachelor), [alumni](#alumni),
 ## Principle Investigator
 <div class = "row">
   <div class="col-sm-6">
-    <img src = "{{ site.url }}{{ site.baseurl }}/images/profile.jpg" class = "img-responsive" width="25%" style="float: left" } 
+    <img src = "{{ site.url }}{{ site.baseurl }}/images/profile.jpg" class = "img-responsive" width="25%" style="float: left" } />
   </div>
   <div class="col-sm-6" >
-    <p> Dr. Jingwen Yan </p>
-    <p> Assistant Professor, Bioinformatics </p>
-    <p> IUPUI </p>
-    <p> Email: jingyan@iu.edu </p>
-    <p> Office: IT Building 481 </p>
+    <h4> Dr. Jingwen Yan </h4>
+    <ul style="overflow: hidden">
+      <li> Assistant Professor, Bioinformatics </li>
+      <li> IUPUI </li>
+      <li> Email: jingyan@iu.edu </li>
+      <li> Office: IT Building 481 </li>
+    </ul>
   </div>
-  <div class="col-sm-6">
-  </div>
+
 </div
 ## PhD Students
 {% assign number_printed = 0 %}
