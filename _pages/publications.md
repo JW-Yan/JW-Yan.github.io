@@ -8,9 +8,9 @@ permalink: /publications/
 
 # Publications
 
-Jump to [Journal](#Journal), [Conference Proceedings](#Proceedings).
+Jump to [Journal](#journal), [Conference Proceedings](#proceedings).
 
-## Journal
+## Journal<a name="journal"></a>
 
 {% for publi in site.data.publist %}
 
@@ -19,7 +19,7 @@ Jump to [Journal](#Journal), [Conference Proceedings](#Proceedings).
 
 {% endfor %}
 
-## Proceedings
+## Conference Proceedings<a name="proceedings"></a>
 {% for publi in site.data.publist %}
 
   {{ publi.title }} <br />
