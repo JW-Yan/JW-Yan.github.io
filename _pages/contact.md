@@ -1,4 +1,10 @@
+---
+title: "Jingwen Lab - contact"
+layout: contact
+excerpt: "Jingwen Lab -- contact"
+permalink: /contact/
 
+---
 **Dr. Jingwen Yan**
 
 Assistant Professor
