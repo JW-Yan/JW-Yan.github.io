@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [master and bachelor students](#master-and-bachelor), [alumni](#alumni), [lab visitors](#lab-visitors).
+Jump to [Master students](#master), [Bachelor students](#bachelor), [Lab visitors](#lab-visitors), [Alumni](#alumni).
 
 ## Principle Investigator    
   
@@ -153,6 +153,17 @@ Phone (Office): (317) 278-7668
 </div>
 </div>
 
+## Lab Visitors<a name="lab-visitors"></a>
+
+<div class="row">
+<div class="col-sm-8 clearfix">
+<h4>Visitors</h4>
+{% for member in site.data.alumni_visitors %}
+{{ member.name }}
+{% endfor %}
+</div>
+
+</div>
 
 ## Alumni<a name="alumni"></a>
 
