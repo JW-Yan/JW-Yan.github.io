@@ -14,10 +14,12 @@ permalink: /team/
 Jump to [master and bachelor students](#master-and-bachelor), [alumni](#alumni), [lab visitors](#lab-visitors).
 
 ## Principle Investigator
-![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 25%; float: left; margin: 0px 10px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 120px; float: left; margin: 0px 10px"} 
 #### Dr. Jingwen Yan 
 *Assistant Professor, Bioinformatics*
 *IUPUI*
+
+
 
 Email: jingyan@iu.edu
 
