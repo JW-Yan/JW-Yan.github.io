@@ -17,6 +17,7 @@ Jump to [Master students](#master), [Bachelor students](#bachelor), [Lab visitor
   
 ![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 180px; float: left; margin: 15px 30px 15px 0px;"} 
 
+</br>
 #### Jingwen Yan, Ph.D
 *Assistant Professor, Bioinformatics*     
 *IUPUI*     
