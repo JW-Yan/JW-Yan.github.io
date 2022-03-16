@@ -26,7 +26,7 @@ Email: jingyan@iu.edu
 Office: IT 481   
 Phone (Office): (317) 278-7668  
 
-
+<br/>
 ## PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.team_members %}
