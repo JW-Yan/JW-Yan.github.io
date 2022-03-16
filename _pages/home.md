@@ -37,5 +37,5 @@ Our Brain Imaging and Genetics Lab is a highly interdisciplinary team led by Dr.
 </div>
 
 ### Open positions
-We are looking for highly motivated students and scholars with background in biomedical informatics, computer science, statistics, or engineering to join our lab! Positions for undergraduate and graduate students and PostDocs are also available. Please check [Vacancies](Vacancies) for more details. 
+We are looking for highly motivated students and scholars with background in biomedical informatics, computer science, statistics, or engineering to join our lab! Positions for undergraduate and graduate students and PostDocs are also available. Please check [Openings](vacancies) for more details. 
 
