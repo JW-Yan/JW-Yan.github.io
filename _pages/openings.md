@@ -21,6 +21,3 @@ If you are interested in working with us as a PhD student or postdoc, please sen
 ### Research opportunity for undergraduates and masters
 If you are a Master or undergraduate student at IUPUI or IUB, and are interested in brain imaging and genetic data analysis, please send me an [email](mailto:jingyan@iu.edu) or stop by my office at IT481.
 
-<figure>
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/DSC_0696.jpg" width="95%">
-</figure>
