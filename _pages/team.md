@@ -15,9 +15,8 @@ Jump to [master and bachelor students](#master-and-bachelor), [alumni](#alumni),
 
 ## Principle Investigator    
   
-![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 180px; float: left; margin: 0px 30px;"} 
+![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 180px; float: left; margin: 15px 30px 15px 0px;"} 
 
-<br/>
 #### Dr. Jingwen Yan
 *Assistant Professor, Bioinformatics*     
 *IUPUI*     
