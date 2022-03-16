@@ -15,11 +15,11 @@ Jump to [master and bachelor students](#master-and-bachelor-students), [alumni](
 
 ## Principle Investigator
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/SmartTip.png){: style="width: 250px; float: left; margin: 0px  10px"} 
-Dr. Jingwen Yan
-Assistant Professor, Bioinformatics
-IUPUI
-Email: jingyan@iu.edu 
-Office: IT 481 
+<p> Dr. Jingwen Yan </p>
+<p> Assistant Professor, Bioinformatics </p>
+<p> IUPUI </p>
+<p> Email: jingyan@iu.edu </p>
+<p> Office: IT 481 </p>
 
 ## Staff
 {% assign number_printed = 0 %}
