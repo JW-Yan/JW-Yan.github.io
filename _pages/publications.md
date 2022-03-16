@@ -8,6 +8,8 @@ permalink: /publications/
 
 # Publications
 
+Jump to [Journal](#Journal publications), [Conference Proceedings](#Conference Proceedings).
+
 ## Journal publications
 
 {% for publi in site.data.publist %}
