@@ -13,21 +13,13 @@ permalink: /team/
 
 Jump to [Master students](#master), [Bachelor students](#bachelor), [Lab visitors](#lab-visitors), [Alumni](#alumni).
 
-## Principle Investigator    
-<div class="row">
-<div class="col-sm-12 clearfix">
-  <div class="col-sm-2">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/profile.jpg" class="img-responsive" width="100%" style="float: left" />
-  </div>  
-  <div class="col-sm-10">
-  <br/>
-    <h4> Jingwen Yan, Ph.D </h4>
-    <i> Assistant Professor, Bioinformatics
-    📧 [jingyan@iu.edu](mailto:jingyan@iu.edu)   <br/>
+## Principle Investigator  
+![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 130px; float: left; margin: 30px 30px 50px 10px;"}
+#### Jingwen Yan, Ph.D
+*Assistant Professor, Bioinformatics*   
+📧 [jingyan@iu.edu](mailto:jingyan@iu.edu)<br/>   
 
-    Dr. Jingwen Yan is an Assistant Professor of Bioinformatics in the [Department of BioHealth Informatics](https://soic.iupui.edu/biohealth/) at Indiana University   Purdue University Indianapolis (IUPUI). She obtained her Ph.D. degree in Bioinformatics from Indiana University. Her research interests include bioinformatics, biomedical informatics, machine learning, network science, brain imaging genomics, multi-omics and systems biology, and the applications in Alzheimer’s and other complex diseases. 
-  </div>
-<!-- ![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 140px; float: left; margin: 30px 30px 50px 0px;"} -->
+Dr. Jingwen Yan is an Assistant Professor of Bioinformatics in the [Department of BioHealth Informatics](https://soic.iupui.edu/biohealth/) at Indiana University   Purdue University Indianapolis (IUPUI). She obtained her Ph.D. degree in Bioinformatics from Indiana University. Her research interests include bioinformatics, biomedical informatics, machine learning, network science, brain imaging genomics, multi-omics and systems biology, and the applications in Alzheimer’s and other complex diseases. 
 
 ## PhD Students
 {% assign number_printed = 0 %}
