@@ -15,12 +15,12 @@ Jump to [Master students](#master), [Bachelor students](#bachelor), [Lab visitor
 
 ## Principle Investigator    
   
-![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 140px; float: left; margin: 15px 30px 15px 0px;"} 
+![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 140px; float: left; margin: 30px 30px 30px 0px;"} 
 
 
 #### Jingwen Yan, Ph.D
 *Assistant Professor, Bioinformatics*     
-:email: jingyan@iu.edu   
+📧 jingyan@iu.edu   
 
 Dr. Jingwen Yan is an Assistant Professor of Bioinformatics in the Department of BioHealth Informatics at Indiana University Purdue University Indianapolis (IUPUI). She obtained her Ph.D. degree in Bioinformatics from Indiana University. Her research interests include bioinformatics, biomedical informatics, machine learning, network science, brain imaging genomics, multi-omics and systems biology, and the applications in Alzheimer’s and other complex diseases. 
 
@@ -106,7 +106,7 @@ Dr. Jingwen Yan is an Assistant Professor of Bioinformatics in the Department of
 <div class="row">
   <div class="col-sm-12 clearfix">
       {% for member in site.data.alumni_visitors %}
-          <p>{{ member.name}}</p>
+          {{ member.name}}
       {% endfor %}
   </div>
 </div>
