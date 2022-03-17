@@ -108,14 +108,8 @@ Phone (Office): (317) 278-7668
 
 <div class="row">
   <div class="col-sm-12 clearfix">
-      <table width="60%">
       {% for member in site.data.alumni_visitors %}
-          <tr>
-          <th>{{ member.name }}</th>
-          <th>{{ member.name }}</th>
-          <th>{{ member.name }}</th>
-        </tr>
+          <p>{{ member.name}}</p>
       {% endfor %}
-      </table>
   </div>
 </div>
