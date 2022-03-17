@@ -14,7 +14,7 @@ Here are some projects that we currently work on:
 
 **Computational Methods to Mine Multi-omic Data for Systems Biology of Complex Diseases** 
 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/multi-omic_network.png){: style="width: 350px; float: right; margin: 0px"} 
+<!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/multi-omic_network.png){: style="width: 350px; float: right; margin: 0px"} -->
 We have been developing new computational methods to enable the integration of large scale heterogeneous multi-omic data with rich domain knowledge for better biomarker and association discovery. In particular, we developed a novel biological knowledge guided structured sparse learning model together with large-scale optimization methods to integrate -omic data and biological networks from multiple sources and discover -omic modules involving heterogeneous biomarkers for accurately predicting outcomes of interest. In addition, we coupled multi-task learning with structured sparse association models to jointly learn the bi-multivariate associations between imaging phenotypes and -omic features with dense functional connections for multiple groups. The project contributes to a new solution framework spanning the areas of machine learning, data mining and network science, and also provide novel perspectives as to how to effectively integrate the large-scale and heterogeneous -omic data for a systems biology of complex diseases.
 
 **Computational strategies for incompleteness and heterogeneity in multi-omic data.** 
