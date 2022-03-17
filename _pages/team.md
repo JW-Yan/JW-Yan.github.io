@@ -14,7 +14,8 @@ permalink: /team/
 Jump to [Master students](#master), [Bachelor students](#bachelor), [Lab visitors](#lab-visitors), [Alumni](#alumni).
 
 ## Principle Investigator  
-![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 130px; float: left; margin: 30px 30px 50px 10px;"}
+![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 130px; float: left; margin: 30px 30px 50px 15px;"}
+<br/>
 #### Jingwen Yan, Ph.D
 *Assistant Professor, Bioinformatics*   
 📧 [jingyan@iu.edu](mailto:jingyan@iu.edu)<br/>   
@@ -71,7 +72,7 @@ Dr. Jingwen Yan is an Assistant Professor of Bioinformatics in the [Department o
   {% endif %}
   </ul>
     
-    *Research interest:* {{member.research_interest}}
+  Research interest:{{member.research_interest}}
   </div>
 </div>
 
