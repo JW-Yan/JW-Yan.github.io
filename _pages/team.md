@@ -161,10 +161,6 @@ Phone (Office): (317) 278-7668
 
 {% endfor %}
 
-{% assign even_odd = number_printed | modulo: 2 %}
-{% if even_odd == 1 %}
-</div>
-{% endif %}
 
 ## Lab Visitors<a name="lab-visitors"></a>
 
