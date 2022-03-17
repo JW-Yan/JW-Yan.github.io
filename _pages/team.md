@@ -144,15 +144,16 @@ Phone (Office): (317) 278-7668
 {% endif %}
 
 ## Bachelor Students<a name="bachelor"></a>
-<div class="row">
-
-<div class="col-sm-12 clearfix">
 {% for member in site.data.alumni_visitors %}
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo}}" class="img-responsive" width="25%" style="float: left" />
-  <h4>{{ member.name }}</h4>
+<div class="row">
+  <div class="col-sm-4 clearfix">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo}}" class="img-responsive" width="25%" style="float: left" />
+  </div>
+  <div class = "col-sm-8 clearfix">
+    <h4>{{ member.name }}</h4>
+  </div>
+</div>
 {% endfor %}
-</div>
-</div>
 
 ## Lab Visitors<a name="lab-visitors"></a>
 
