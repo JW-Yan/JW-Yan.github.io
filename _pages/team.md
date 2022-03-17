@@ -34,7 +34,7 @@ Dr. Jingwen Yan is an Assistant Professor of Bioinformatics in the [Department o
 
 <div class="col-sm-12 clearfix">
   <div class="col-sm-4">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
   </div>
   <div class="col-sm-8">
   <h4>{{ member.name }}</h4>
