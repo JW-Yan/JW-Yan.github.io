@@ -146,10 +146,8 @@ Phone (Office): (317) 278-7668
 ## Bachelor Students<a name="bachelor"></a>
 {% for member in site.data.alumni_visitors %}
 <div class="row">
-  <div class="col-sm-4 clearfix">
+  <div class="col-sm-12 clearfix">
     <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo}}" class="img-responsive" width="25%" style="float: left" />
-  </div>
-  <div class = "col-sm-8 clearfix">
     <h4>{{ member.name }}</h4>
   </div>
 </div>
