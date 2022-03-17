@@ -1,11 +1,14 @@
 - name: Linhui Xie
   photo: Linhui.jpg
-  info: started Aug 2017
+  info: started Jan 2018
   email: linhxie@iu.edu
-  number_educ: 2
-  education1: MS xxx University
-  education2: BSc xxx University
-  research_interest: Multi-omic integration, Machine Learning
+  number_educ: 4
+  education1: MS in Electrical and Computer Engineering, IUPUI
+  education2: MS in Mechanical Engineering, IUPUI
+  education3: BS double majored in Computer Science, University of Electronic Science and Technology of China
+  education4: BS in Mathematics, Southwest University of Science and Technology
+  research_interest: multi-omic integration, image processing, computational biology, machine learning, optimization, deep learning, bioinformatics algorithm
+
   
 - name: Bing He
   photo: Bing.png
