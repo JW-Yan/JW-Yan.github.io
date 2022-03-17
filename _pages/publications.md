@@ -12,10 +12,10 @@ Jump to [Journal](#journal), [Conference Proceedings](#proceedings).
 
 ## Journal<a name="journal"></a>
 {% mycounter = 0 %}
-{% for publi in site.data.publist_journal %}
+{% for publi in site.data.publist %}
 
   {% mycounter = mycounter + 1 %}
-  {{ mycounter }}. {{ publi.reference }} <br />
+  {{ mycounter }}. {{ publi.title }} <br />
   
 {% endfor %}
 
