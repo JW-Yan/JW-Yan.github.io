@@ -15,7 +15,7 @@ Department of BioHealth Informatics
 School of Computing and Informatics, Indiana University Purdue University Indianapolis, IN 46202. 
 
 
-Email: jingyan@iupui.edu  
+Email: [jingyan@iu.edu](mailto: jingyan@Iu.edu)  
 Office: IT 481   
 Phone: (317)278-7668   
 
