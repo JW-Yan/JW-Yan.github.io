@@ -22,9 +22,8 @@
   
 - name: Pradeep Varathan
   photo: Pradeep.jpg
-  info: Started Aug 2019
+  info: started Aug 2019
   email: ppugale@iu.edu
-  number_educ: 2
-  education1: MS xxx University
-  education2: BSc xxx University
-  research_interest: Multi-omic integration, Deep Learning
+  number_educ: 1
+  education1: B Tech in Biotechnology, National Institute of Technology Calicut
+  research_interest: Alzheimer's Disease, Machine Learning, Deep Learning, Network and Systems Biology
