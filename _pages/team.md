@@ -17,11 +17,9 @@ Jump to [Master students](#master), [Bachelor students](#bachelor), [Lab visitor
   
 ![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 140px; float: left; margin: 15px 30px 15px 0px;"} 
 
-<br/>
 #### Jingwen Yan, Ph.D
 *Assistant Professor, Bioinformatics*     
 *IUPUI*     
-  
 Email: jingyan@iu.edu    
 Office: IT 481   
 Phone (Office): (317) 278-7668  
@@ -144,14 +142,31 @@ Phone (Office): (317) 278-7668
 {% endif %}
 
 ## Bachelor Students<a name="bachelor"></a>
-{% for member in site.data.alumni_visitors %}
+{% assign number_printed = 0 %}
+{% for member in site.data.team_members %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
 <div class="row">
-  <div class="col-sm-12 clearfix">
-    <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo}}" class="img-responsive" width="25%" style="float: left" />
-    <h4>{{ member.name }}</h4>
-  </div>
+
+<div class="col-sm-12 clearfix">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
+  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
 </div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+</div>
+
 {% endfor %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+{% if even_odd == 1 %}
+</div>
+{% endif %}
+
+
 
 ## Lab Visitors<a name="lab-visitors"></a>
 
