@@ -152,7 +152,8 @@ Phone (Office): (317) 278-7668
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>{{ member.info }} <!--<br>email: <{{ member.email }}></i> -->
+  <i>1. xxxxxxxxxxxxxxxxxxxxxxxxxx <!--<br>email: <{{ member.email }}></i> -->
+  <i>2. xxxxxxxxxxxxxxxxxxxxxxxxxx
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
