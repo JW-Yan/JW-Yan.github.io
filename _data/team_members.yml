@@ -5,6 +5,7 @@
   number_educ: 2
   education1: MS xxx University
   education2: BSc xxx University
+  research_interest: Multi-omic integration, Machine Learning
   
 - name: Bing He
   photo: Bing.png
@@ -13,7 +14,8 @@
   number_educ: 2
   education1: MS xxx University
   education2: BSc xxx University
-
+  research_interest: Brain imaging genetics, Machine learning
+  
 - name: Pradeep Varathan
   photo: Pradeep.jpg
   info: Started Aug 2019
@@ -21,4 +23,4 @@
   number_educ: 2
   education1: MS xxx University
   education2: BSc xxx University
-
+  research_interest: Multi-omic integration, Deep Learning
