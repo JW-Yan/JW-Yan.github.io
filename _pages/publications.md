@@ -14,11 +14,12 @@ Jump to [Journal](#journal), [Conference Proceedings](#proceedings).
 {% assign counter = 0 %}
 {% for publi in site.data.publist_journal %}
   {% assign counter = counter | plus: 1 %}
-  {{ counter }} {{ publi.reference }} <br />
+  {{ counter }}.  {{ publi.reference }} <br />
 {% endfor %}
 
 ## Conference Proceedings<a name="proceedings"></a>
 {% assign counter = 0 %}
 {% for publi in site.data.publist_proceeding %}
-  {{ publi.reference }} <br />
+  {% assign counter = counter | plus: 1 %}
+  {{ counter }}.  {{ publi.reference }} <br />
 {% endfor %}
