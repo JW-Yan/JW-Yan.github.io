@@ -35,8 +35,8 @@ Dr. Jingwen Yan is an Assistant Professor of Bioinformatics in the [Department o
 <div class="col-sm-12 clearfix">
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
   <h4>{{ member.name }}</h4>
-  <i>1. xxxxxxxxxxxxxxx. xxx xxx xx xx xxx xx xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx. xxx xxxxxxx xxxxxxxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxx xxxx <!--<br>email: <{{ member.email }}></i> -->
-  <i>2. xxxxxxxxxxxxxxxxxxxxxxxxxx
+  <i> {{member.info}}
+  <i> Research interest: {{member.research_interest}}
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
