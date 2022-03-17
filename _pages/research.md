@@ -16,7 +16,7 @@ Here are some projects that we currently work on:
 
 
 **Computational strategies for incompleteness and heterogeneity in multi-omic data.** 
-![]({{ site.url }}{{ site.baseurl }}/images/respic/multi-omic_heterogeneity.png){: style="width: 250px; float: left; margin: 0px 10px"}
+<!--![]({{ site.url }}{{ site.baseurl }}/images/respic/multi-omic_heterogeneity.png){: style="width: 250px; float: left; margin: 0px 10px"} -->
 Multi-omics refers to the integrative analysis of multiple types of -omics data (e.g., genotype, gene expression and protein expression). Increasing multi-omic data provides opportunities for discovery of disease biomarkers from multiple molecular scales and therefore can further our understanding of underlying disease mechanisms. Despite this great potential, existing multi-omic data collections are mostly incomplete and of heterogeneous types (e.g., continuous and categorical numbers). Integrating these data for joint analysis typically requires exclusion of many subjects with missing values; as a consequence, a large chunk of data remains unused. This project provides novel perspectives in handling the incompleteness and heterogeneity problems in multi-omics data and hereafter allow biomedical researchers to gain more insights from rapidly growing yet imperfect biomedical data. This project aims to develop new classes of computational methods to enable the joint mining of incomplete and heterogeneous multi-omic data by leveraging various biological networks for discovery of functionally connected biomarkers. 
 
 
