@@ -107,10 +107,15 @@ Phone (Office): (317) 278-7668
 ## Alumni<a name="alumni"></a>
 
 <div class="row">
-<div class="col-sm-12 clearfix">
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
-{% endfor %}
-</div>
-
+  <div class="col-sm-12 clearfix">
+      <table>
+      {% for member in site.data.alumni_visitors %}
+          <tr>
+          <th>{{ member.name }}</th>
+          <th>{{ member.name }}</th>
+          <th>{{ member.name }}</th>
+        </tr>
+      {% endfor %}
+      </table>
+  </div>
 </div>
