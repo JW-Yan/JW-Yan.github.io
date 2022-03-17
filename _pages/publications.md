@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Publications"
+title: "Jingwen Lab - Publications"
 layout: gridlay
-excerpt: "Allan Lab -- Publications."
+excerpt: "Jingwen Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---
@@ -11,18 +11,16 @@ permalink: /publications/
 Jump to [Journal](#journal), [Conference Proceedings](#proceedings).
 
 ## Journal<a name="journal"></a>
+{% mycounter = 0 %}
+{% for publi in site.data.publist_journal %}
 
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+  {% mycounter = mycounter + 1 %}
+  {{ mycounter }}. {{ publi.reference }} <br />
+  
 {% endfor %}
 
 ## Conference Proceedings<a name="proceedings"></a>
-{% for publi in site.data.publist %}
-
-  {{ publi.title }} <br />
-  <em>{{ publi.authors }} </em><br /><a href="{{ publi.link.url }}">{{ publi.link.display }}</a>
-
+{% mycounter = 0 %}
+{% for publi in site.data.publist_proceeding %}
+  {{ publi.reference }} <br />
 {% endfor %}
