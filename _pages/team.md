@@ -14,15 +14,20 @@ permalink: /team/
 Jump to [Master students](#master), [Bachelor students](#bachelor), [Lab visitors](#lab-visitors), [Alumni](#alumni).
 
 ## Principle Investigator    
-  
-![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 140px; float: left; margin: 30px 30px 50px 0px;"} 
+<div class="row">
+<div class="col-sm-12 clearfix">
+  <div class="col-sm-2">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/profile.jpg" class="img-responsive" width="100%" style="float: left" />
+  </div>  
+  <div class="col-sm-10">
+  <br/>
+    <h4> Jingwen Yan, Ph.D </h4>
+    <i> Assistant Professor, Bioinformatics
+    📧 [jingyan@iu.edu](mailto:jingyan@iu.edu)   <br/>
 
-<br/>
-#### Jingwen Yan, Ph.D
-*Assistant Professor, Bioinformatics*     
-📧 [jingyan@iu.edu](mailto:jingyan@iu.edu)   
-
-Dr. Jingwen Yan is an Assistant Professor of Bioinformatics in the [Department of BioHealth Informatics](https://soic.iupui.edu/biohealth/) at Indiana University Purdue University Indianapolis (IUPUI). She obtained her Ph.D. degree in Bioinformatics from Indiana University. Her research interests include bioinformatics, biomedical informatics, machine learning, network science, brain imaging genomics, multi-omics and systems biology, and the applications in Alzheimer’s and other complex diseases. 
+    Dr. Jingwen Yan is an Assistant Professor of Bioinformatics in the [Department of BioHealth Informatics](https://soic.iupui.edu/biohealth/) at Indiana University   Purdue University Indianapolis (IUPUI). She obtained her Ph.D. degree in Bioinformatics from Indiana University. Her research interests include bioinformatics, biomedical informatics, machine learning, network science, brain imaging genomics, multi-omics and systems biology, and the applications in Alzheimer’s and other complex diseases. 
+  </div>
+<!-- ![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 140px; float: left; margin: 30px 30px 50px 0px;"} -->
 
 ## PhD Students
 {% assign number_printed = 0 %}
@@ -74,7 +79,7 @@ Dr. Jingwen Yan is an Assistant Professor of Bioinformatics in the [Department o
   {% endif %}
   </ul>
     
-  Research interest: {{member.research_interest}}
+    <b>Research interest:</b> {{member.research_interest}}
   </div>
 </div>
 
