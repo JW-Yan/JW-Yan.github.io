@@ -15,7 +15,7 @@ Jump to [Master students](#master), [Bachelor students](#bachelor), [Lab visitor
 
 ## Principle Investigator    
   
-![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 180px; float: left; margin: 30px 30px 50px 0px;"} 
+![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 140px; float: left; margin: 30px 30px 50px 0px;"} 
 
 <br/>
 #### Jingwen Yan, Ph.D
@@ -33,7 +33,10 @@ Dr. Jingwen Yan is an Assistant Professor of Bioinformatics in the [Department o
 <div class="row">
 
 <div class="col-sm-12 clearfix">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="20%" style="float: left" />
+  <div class="col-sm-4">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="15%" style="float: left" />
+  </div>
+  <div class="col-sm-8">
   <h4>{{ member.name }}</h4>
   <i> {{member.info}} </i> <br/>
   📧 [{{member.email}}](mailto:{{member.email}}) <br/>
@@ -72,7 +75,7 @@ Dr. Jingwen Yan is an Assistant Professor of Bioinformatics in the [Department o
   </ul>
     
   Research interest: {{member.research_interest}}
-  
+  </div>
 </div>
 
 {% assign number_printed = number_printed | plus: 1 %}
