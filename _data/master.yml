@@ -1,0 +1,23 @@
+- name: Yash Raj
+  photo: Yash.jpg
+  info: started Jan 2021
+  email: yashraj@iu.edu
+  number_educ: 1
+  education1: BSc 
+  research_interest: Deep learning, predictive modeling og genetic data
+  
+- name: Steven Wade
+  photo: Steven.jpg
+  info: Started Jan 2021
+  email: szwade@indiana.edu
+  number_educ: 1
+  education1: BSc xxx University
+  research_interest: Genetic data processing, GWAS
+ 
+ - name: Divya Sagar Vella
+  photo: Sagar.jpg
+  info: started Jan 2021
+  email: dvella@iu.edu
+  number_educ: 1
+  education1: BSc 
+  research_interest: 
