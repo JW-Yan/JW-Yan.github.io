@@ -6,8 +6,7 @@ sitemap: false
 permalink: /publications/
 ---
 
-# Publications
-
+<br/>
 Jump to [Journal](#journal), [Conference Proceedings](#proceedings).
 
 ## Journal<a name="journal"></a>
