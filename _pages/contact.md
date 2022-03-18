@@ -7,7 +7,7 @@ permalink: /contact/
 ---
 
 <br/>
-**Dr. Jingwen Yan** 
+### **Dr. Jingwen Yan** 
 
 Assistant Professor  
 Department of BioHealth Informatics  
