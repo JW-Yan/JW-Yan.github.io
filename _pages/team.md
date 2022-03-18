@@ -6,10 +6,6 @@ sitemap: false
 permalink: /team/
 ---
 
-# Group Members
-
- **We are  looking for new PhD students and Postdocs to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
-
 
 Jump to [Master students](#master), [Bachelor students](#bachelor), [Lab visitors](#lab-visitors), [Alumni](#alumni).
 
