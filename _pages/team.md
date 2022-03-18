@@ -9,7 +9,7 @@ permalink: /team/
 <br/>
 Jump to [Master students](#master), [Bachelor students](#bachelor), [Lab visitors](#lab-visitors), [Alumni](#alumni).
 
-## Principle Investigator  
+### Principle Investigator  
 ![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 130px; float: left; margin: 30px 30px 50px 15px;"}
 <br/>
 #### Jingwen Yan, Ph.D
@@ -18,7 +18,7 @@ Jump to [Master students](#master), [Bachelor students](#bachelor), [Lab visitor
 
 Dr. Jingwen Yan is an Assistant Professor of Bioinformatics in the [Department of BioHealth Informatics](https://soic.iupui.edu/biohealth/) at Indiana University   Purdue University Indianapolis (IUPUI). She obtained her Ph.D. degree in Bioinformatics from Indiana University. Her research interests include bioinformatics, biomedical informatics, machine learning, network science, brain imaging genomics and systems biology, and the applications in Alzheimer’s and other complex diseases. 
 
-## PhD Students
+### PhD Students
 {% assign number_printed = 0 %}
 {% for member in site.data.phd %}
 
@@ -79,7 +79,7 @@ Dr. Jingwen Yan is an Assistant Professor of Bioinformatics in the [Department o
 {% endfor %}
 
 
-## Master Students<a name="master"></a>
+### Master Students<a name="master"></a>
 {% for member in site.data.master %}
 
 <div class="row">
@@ -139,7 +139,7 @@ Dr. Jingwen Yan is an Assistant Professor of Bioinformatics in the [Department o
 ## Lab Visitors<a name="lab-visitors"></a> -->
 
 
-## Alumni<a name="alumni"></a>
+### Alumni<a name="alumni"></a>
 
 <!--<div class="row">
 <div class="col-sm-12 clearfix"> -->
