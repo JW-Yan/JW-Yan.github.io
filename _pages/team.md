@@ -138,20 +138,18 @@ Dr. Jingwen Yan is an Assistant Professor of Bioinformatics in the [Department o
 
 {% endfor %}
 
-## Bachelor Students<a name="bachelor"></a>
+<!-- ## Bachelor Students<a name="bachelor"></a>
 
-
-
-## Lab Visitors<a name="lab-visitors"></a>
+## Lab Visitors<a name="lab-visitors"></a> -->
 
 
 ## Alumni<a name="alumni"></a>
 
-<!-- <div class="row">
+<div class="row">
 <div class="col-sm-12 clearfix">
-{% for member in site.data.alumni_visitors %}
-{{ member.name }}
+{% for member in site.data.alumni %}
+|{{ member.name }}, {{ member.employment }} |{{ member.degree }} |{{ member.period }}
 {% endfor %}
 </div>
-</div> -->
+</div>
 <br/><br/><br/>
