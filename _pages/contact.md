@@ -6,8 +6,7 @@ permalink: /contact/
 
 ---
 
-# Contact Information
-
+<br/>
 **Dr. Jingwen Yan** 
 
 Assistant Professor  
