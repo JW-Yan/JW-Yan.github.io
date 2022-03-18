@@ -21,3 +21,11 @@
   number_educ: 1
   education1: BSc 
   research_interest: 
+
+- name: Shiva Raju Gollapally Krishna
+  photo: Shiva.jpg
+  info: Started Aug 2021
+  email: shgolla@iu.edu
+  number_educ: 1
+  education1: Bachelors of Engineering in Biomedical Engineering at Osmania University (2013-2017)
+  research_interest: fMRI image processing, visualization
