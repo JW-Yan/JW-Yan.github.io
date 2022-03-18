@@ -19,4 +19,4 @@ permalink: /teaching/
 ### Undergraduate courses
 - [INFO I-201 Mathematical Foundations of Informatics](https://soic.iupui.edu/courses/info-i201/)
 - [INFO B-210 Information Infrastructure I](https://soic.iupui.edu/courses/info-b210/)
-- [INFO B-406 Introduction to Biomedical Informatics] (https://soic.iupui.edu/courses/info-b406/)
+- [INFO B-406 Introduction to Biomedical Informatics](https://soic.iupui.edu/courses/info-b406/)
