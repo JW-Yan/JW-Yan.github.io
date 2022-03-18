@@ -6,9 +6,7 @@ sitemap: false
 permalink: /research/
 ---
 
-# Research
-
-Our overarching goal is to enable the effective mining of big yet imperfect brain imaging and multi-omic data for biomarker discovery and early diagnosis of Alzheimer's and other complex dieases. 
+The overarching goal of brain imaging and genetics lab is to enable the effective mining of big yet imperfect brain imaging and multi-omic data for biomarker discovery, early diagnosis and mechanism exploration of Alzheimer's and other complex dieases. 
 
 Here are some projects that we currently work on:
 
