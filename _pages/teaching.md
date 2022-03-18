@@ -6,8 +6,8 @@ sitemap: false
 permalink: /teaching/
 ---
 
-# Teaching
 
+<br/>
 ## Graduate courses
 
 - INFO B-519 Introduction to Bioinformatics 
