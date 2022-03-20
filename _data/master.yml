@@ -19,7 +19,7 @@
   info: started Jan 2021
   email: dvella@iu.edu
   number_educ: 1
-  education1: BSc 
+  education1: BS 
   research_interest: 
 
 - name: Shiva Raju Gollapally Krishna
@@ -27,5 +27,21 @@
   info: Started Aug 2021
   email: shgolla@iu.edu
   number_educ: 1
-  education1: Bachelors of Engineering in Biomedical Engineering at Osmania University (2013-2017)
+  education1: BE Biomedical Engineering at Osmania University (2013-2017)
   research_interest: fMRI image processing, visualization
+
+- name: Sarah Smith
+  photo: Sarah.jpg
+  info: Started Aug 2021 
+  email: sls23@iu.edu
+  number_educ: 1
+  education1: BS Biomedical Informatics IUPUI
+  research_interests: Precision Medicine, computational Biology 
+  
+- name: Sylvia Robertson
+ photo: Sylvia.jpg
+ info: started Sep 2021
+ email: sylrober@iu.edu
+ number_educ: 1
+ education1: BSc Purdue University
+ research_interest: GWAS, network science, machine learning 
