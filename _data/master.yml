@@ -36,12 +36,12 @@
   email: sls23@iu.edu
   number_educ: 1
   education1: BS Biomedical Informatics IUPUI
-  research_interests: Precision Medicine, computational Biology 
+  research_interest: Precision Medicine, computational Biology 
   
 - name: Sylvia Robertson
- photo: Sylvia.jpg
- info: started Sep 2021
- email: sylrober@iu.edu
- number_educ: 1
- education1: BSc Purdue University
- research_interest: GWAS, network science, machine learning 
+  photo: Sylvia.jpg
+  info: started Sep 2021
+  email: sylrober@iu.edu
+  number_educ: 1
+  education1: BSc Purdue University
+  research_interest: GWAS, network science, machine learning 
