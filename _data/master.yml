@@ -7,12 +7,11 @@
   research_interest: Deep learning, predictive modeling og genetic data
   
 - name: Steven Wade
-  photo: Steven.jpg
-  info: Started Jan 2021
-  email: szwade@indiana.edu
+  info: started Jan 2021
+  email: szwade@iu.edu
   number_educ: 1
-  education1: BSc xxx University
-  research_interest: Genetic data processing, GWAS
+  education1:  BSc Indiana University
+  research_interest: GWAS, QC pipelines, Machine Learning
  
 - name: Divya Sagar Vella
   photo: Sagar.jpg
@@ -45,3 +44,4 @@
   number_educ: 1
   education1: BSc Purdue University
   research_interest: GWAS, network science, machine learning 
+  
