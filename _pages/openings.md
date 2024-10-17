@@ -20,5 +20,5 @@ If you are from computational biology, biomedical informatics, computer science 
 **Important**: please insert _"Application PhD"_ in the subject line.
 
 ### Research opportunity for undergraduates and masters
-If you are a Master or undergraduate student at IUPUI or IUB, and are interested in brain imaging and genetic data analysis, please send me an [email](mailto:jingyan@iu.edu) or stop by my office.
+If you are a Master or undergraduate student at IUI or IUB, and are interested in brain imaging and genetic data analysis, please send me an [email](mailto:jingyan@iu.edu).
 
