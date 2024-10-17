@@ -12,7 +12,7 @@ permalink: /contact/
 Associate Professor  
 Director of Bioinformatics <br>
 Department of Biomedical Engineering and Informatics <br>
-Luddy School of Informatics, Computing and Engineering
+Luddy School of Informatics, Computing and Engineering <br>
 Indiana University    
 Indianapolis, IN 46202.  
 
