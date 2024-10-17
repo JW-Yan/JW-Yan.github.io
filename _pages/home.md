@@ -16,6 +16,7 @@ We are a highly interdisciplinary team led by Dr. Jingwen Yan. Dr. Yan is an Ass
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Lab_research.png){: style="width: 100%; float: left; margin: 0px 10px"} 
 
 <br/>
+<br/>
 ### Open positions
 We are looking for highly motivated PhD students and postdocs with background in computational biology, biomedical informatics, computer science, or engineering to join our lab! Please check [Openings](vacancies) for more details. 
 
