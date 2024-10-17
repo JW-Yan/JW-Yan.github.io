@@ -10,8 +10,8 @@ permalink: /contact/
 ### **Dr. Jingwen Yan** 
 
 Associate Professor  
-Director of Bioinformatics
-Department of Biomedical Engineering and Informatics
+Director of Bioinformatics <br>
+Department of Biomedical Engineering and Informatics <br>
 Luddy School of Informatics, Computing and Engineering
 Indiana University    
 Indianapolis, IN 46202.  
