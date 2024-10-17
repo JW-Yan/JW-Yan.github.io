@@ -15,7 +15,27 @@ We are a highly interdisciplinary team led by Dr. Jingwen Yan. Dr. Yan is an Ass
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Lab_research.png){: style="width: 100%; float: left; margin: 0px 10px"} 
 
-{% include slider.html selector="slider1" %}
+<!-- Items -->
+<div class="carousel-inner" markdown="0">
+    <div class="item active">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Lab_research.png" alt="Slide 1" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Lab_research.png" alt="Slide 2" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Lab_research.png" alt="Slide 3" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Lab_research.png" alt="Slide 4" />
+    </div>
+    <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Lab_research.png" alt="Slide 5" />
+    </div>       
+     <div class="item">
+        <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Lab_research.png" alt="Slide 6" />
+    </div>
+</div>
 
 
 <br/>
