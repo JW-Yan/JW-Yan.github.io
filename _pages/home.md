@@ -31,10 +31,10 @@ We are a highly interdisciplinary team led by Dr. Jingwen Yan. Dr. Yan is an Ass
             <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Lab_research.png" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Lab_research.png" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/MoFNet.png" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/respic/Lab_research.png" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/TransFuse.png" alt="Slide 3" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
