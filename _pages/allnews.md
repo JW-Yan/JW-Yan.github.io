@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Jingwen Lab at IUPUI."
+excerpt: "Jingwen Lab at IUI."
 sitemap: false
 permalink: /allnews.html
 ---
