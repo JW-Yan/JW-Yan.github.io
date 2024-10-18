@@ -8,7 +8,7 @@ permalink: /
 
 
 <br>
-![]({{ site.url }}{{ site.baseurl }}/images/logopic/Lab_logo.png){: style="width: 100%; float: left; margin: 0px 10px"} 
+![]({{ site.url }}{{ site.baseurl }}/images/logopic/Logo_lab.png){: style="width: 100%; float: left; margin: 0px 10px"} 
 
 <br/>
 We are a highly interdisciplinary team led by Dr. Jingwen Yan, an Associate Professor oand Director of Bioinformatics program at Indiana University Indianapolis (IUI). 
@@ -17,6 +17,7 @@ We are looking for highly motivated PhD students and postdocs with background in
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Lab_research.png){: style="width: 100%; float: left; margin: 0px 10px"} 
 
+<!--
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
     <!-- Menu -->
     <ol class="carousel-indicators">
@@ -47,8 +48,5 @@ We are looking for highly motivated PhD students and postdocs with background in
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-<br/>
-<br/>
-
+--/>
 
