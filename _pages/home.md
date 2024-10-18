@@ -16,5 +16,6 @@ permalink: /
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Lab_research.png){: style="width: 100%; float: left; margin: 0px 10px"} 
 
+<br/>
 ### Open positions
 [Openings](vacancies) now available for motivated PhD students and postdocs.
