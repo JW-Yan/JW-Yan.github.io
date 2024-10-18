@@ -23,7 +23,8 @@ permalink: /
 ### Funding support
 We are grateful for the funding support from the following agencies. 
 
-![]({{ site.url }}{{ site.baseurl }}/images/logopic/Logo_lab.png){: style="width: 100%; float: left; margin: 10px 10px"} 
-![]({{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIH.png){: style="width: 100%; float: left; margin: 10px 10px"} 
-![]({{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png){: style="width: 100%; float: left; margin: 10px 10px"} 
-![]({{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CTSI.png){: style="width: 100%; float: left; margin: 10px 10px"} 
+<figure class="fourth">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIH.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" style="width: 110px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CTSI.png" style="width: 120px">
+</figure>
