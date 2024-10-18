@@ -7,13 +7,13 @@ permalink: /
 ---
 
 
-<br>
+<br/>
 ![]({{ site.url }}{{ site.baseurl }}/images/logopic/Logo_lab.png){: style="width: 100%; float: left; margin: 0px 10px"} 
 
 <br/>
 We are a highly interdisciplinary team led by Dr. Jingwen Yan, an Associate Professor oand Director of Bioinformatics program at Indiana University Indianapolis (IUI). 
-<br>
-We are looking for highly motivated PhD students and postdocs with background in computational biology, biomedical informatics, computer science, or engineering to join our lab! Please check [Openings](vacancies) for more details. 
+<br/><br/>
+<ins>We are looking for highly motivated PhD students and postdocs Please check our [Openings](vacancies). </ins>
 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Lab_research.png){: style="width: 100%; float: left; margin: 0px 10px"} 
 
