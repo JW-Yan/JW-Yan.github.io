@@ -10,12 +10,11 @@ permalink: /
 <br/>
 ![]({{ site.url }}{{ site.baseurl }}/images/logopic/Logo_lab.png){: style="width: 100%; float: left; margin: 0px 10px"} 
 
+
 <br/><br/><br/>
 We are a highly interdisciplinary team led by Dr. Jingwen Yan, an Associate Professor oand Director of Bioinformatics program at Indiana University Indianapolis (IUI). Our research focuses on integration of brain imaging and -omics data for improved understanding and detection of complex brain disorders like Alzheimer's. 
-
 <br/>
 <ins> [Openings](vacancies) available for motivated PhD students and postdocs </ins>
 
-<br/>
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/Lab_research.png){: style="width: 100%; float: left; margin: 0px 10px"} 
 
