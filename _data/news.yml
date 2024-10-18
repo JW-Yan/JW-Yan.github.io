@@ -1,14 +1,14 @@
--date: 2024/9/20
-headline: We received an R01 award from NIH/NIA for our project on progression modeling of Alzheimer's disease.
+- date: 2024/9/20
+  headline: We received an R01 award from NIH/NIA for our project on progression modeling of Alzheimer's disease.
 
--date: 2024/8/15
-headline: Our paper on early risk assessment of AD is finally accepted by [Alzheimer's & Dementia]{https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.14244} today.
+- date: 2024/8/15
+  headline: Our paper on early risk assessment of AD is finally accepted by [Alzheimer's & Dementia]{https://alz-journals.onlinelibrary.wiley.com/doi/full/10.1002/alz.14244} today.
 
--date: 2024/05/23
-headline: Linhui Xie passed his PhD dissertation defense today! Congratulations Dr. Xie! He will work with Dr. Maria Rodriguez Martinez as a postdoc fellow at Yale. 
+- date: 2024/05/23
+  headline: Linhui Xie passed his PhD dissertation defense today! Congratulations Dr. Xie! He will work with Dr. Maria Rodriguez Martinez as a postdoc fellow at Yale. 
 
--date: 2024/06/30
-headline: Another award from NSF for our collaborative project with Purdue on fair and trustworthy models!
+- date: 2024/06/30
+  headline: Another award from NSF for our collaborative project with Purdue on fair and trustworthy models!
 
 - date: 2024/04/26
   headline: Bing He passed her PhD dissertation defense today! Congratulations Dr. He! She will continue her research journey with Dr. Quiroz-Gaviria at Harvard as a postdoc fellow. 
