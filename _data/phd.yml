@@ -1,29 +1,35 @@
-- name: Linhui Xie
-  photo: Linhui.JPG
-  info: started Jan 2018
-  email: linhxie@iu.edu
-  number_educ: 4
-  education1: MS in Electrical and Computer Engineering, IUPUI
-  education2: MS in Mechanical Engineering, IUPUI
-  education3: BS double majored in Computer Science, University of Electronic Science and Technology of China
-  education4: BS in Mathematics, Southwest University of Science and Technology
-  research_interest: Multi-omic integration, Image processing, Computational biology, Machine learning, Optimization, Deep learning, Bioinformatics
-
-  
-- name: Bing He
-  photo: Bing.jpg
-  info: started Aug 2019
-  email: hebing@iu.edu
+- name: Tianchuan Gao
+  photo: Tianchuan_Gao.JPG
+  info: started Aug 2023
+  email: tg11@iu.edu
   number_educ: 2
-  education1: MS Harbin Engineering University
-  education2: BSc University of Electronic Science and Technology of China
-  research_interest: Imaging genetics association, Machine Learning, Deep learning
+  education1: MS in Biostatistics, Columbia University
+  education2: BS in Applied Mathematics, Syracuse University
+  research_interest: Disease progression profiling, machine learning, scRNA-seq Analysis
+
+- name: Neda Emami
+  photo: Neda_Emami.JPG
+  info: started Jan 2024
+  email: nemami@iu.edu
+  number_educ: 1
+  education1: MS in Biomedical Informatics, Tabriz University of Medical Sciences
+  research_interest: deep learning for molecular binding and single cell analysis
 
   
-- name: Pradeep Varathan
-  photo: Pradeep.jpg
-  info: started Aug 2019
-  email: ppugale@iu.edu
+- name: Yurika Upadhyaya
+  photo: Yurika_Upadhyaya.jpg
+  info: started Aug 2023
+  email: yupadhya@iu.edu
   number_educ: 1
-  education1: B Tech in Biotechnology, National Institute of Technology Calicut
-  research_interest: Alzheimer's Disease, Machine Learning, Deep Learning, Network and Systems Biology
+  education1: MS Indiana University Indianapolis
+  research_interest: Bioinformatics, multi-omics integration, functional genomics
+
+  
+- name: Mingzhao Tong
+  photo: unknown.jpg
+  info: started Aug 2024
+  email: tongming@iu.edu
+  number_educ: 1
+  education1: BS, Hangzhou Dianzi University
+  research_interest: Machine learning, algorithm, disease progression modeling
+
