@@ -1,48 +1,18 @@
-- name: Yash Raj
-  photo: Yash.jpg
-  info: started Jan 2021
-  email: yashraj@iu.edu
-  number_educ: 1
-  education1: BSc 
-  research_interest: Deep learning, predictive modeling og genetic data
-  
-- name: Steven Wade
-  photo: Steven.jpg
-  info: started Jan 2021
-  email: szwade@iu.edu
-  number_educ: 1
-  education1:  BSc Indiana University
-  research_interest: GWAS, QC pipelines, Machine Learning
- 
-- name: Divya Sagar Vella
-  photo: Sagar.jpg
-  info: started Jan 2021
-  email: dvella@iu.edu
-  number_educ: 1
-  education1: BS 
-  research_interest: 
+- name:  Fahad Mehfooz
+  photo: unknown.jpg
+  info: started Aug 2023
+  email: fmehfooz@iu.edu
+  research interest: deep progression modeling
 
-- name: Shiva Raju Gollapally Krishna
-  photo: Shiva.jpg
-  info: Started Aug 2021
-  email: shgolla@iu.edu
-  number_educ: 1
-  education1: BE Biomedical Engineering at Osmania University (2013-2017)
-  research_interest: fMRI image processing, visualization
+- name:  Shreya Purushottam Ekande
+  photo: unknown.jpg
+  info: started Aug 2023
+  email: spekande@iu.edu
 
-- name: Sarah Smith
-  photo: Sarah.jpg
-  info: Started Aug 2021 
-  email: sls23@iu.edu
-  number_educ: 1
-  education1: BS Biomedical Informatics IUPUI
-  research_interest: Precision Medicine, computational Biology 
-  
-- name: Sylvia Robertson
-  photo: Sylvia.jpg
-  info: started Sep 2021
-  email: sylrober@iu.edu
-  number_educ: 1
-  education1: BSc Purdue University
-  research_interest: GWAS, network science, machine learning 
+- name:  Soumya Yennapureddy
+  photo: unknown.jpg
+  info: started Jan 2023
+  email: syennapu@iu.edu
+
+
   
