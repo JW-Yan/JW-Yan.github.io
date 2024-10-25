@@ -126,8 +126,10 @@ Dr. Jingwen Yan is an Associate Professor of Bioinformatics in the Department of
   <li> {{ member.education5 }} </li>
   {% endif %}
   </ul>
-    
+
+  {% if member.has_research_interest == 1 %}
   Research interest:{{member.research_interest}}
+  {% endif %}
   </div>
 </div>
 
