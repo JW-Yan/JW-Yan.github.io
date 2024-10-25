@@ -2,16 +2,19 @@
   photo: unknown.jpg
   info: started Aug 2023
   email: fmehfooz@iu.edu
+  has_research_interest: 1
   research interest: deep progression modeling
 
 - name:  Shreya Purushottam Ekande
   photo: unknown.jpg
   info: started Aug 2023
+  has_research_interest: 0
   email: spekande@iu.edu
 
 - name:  Soumya Yennapureddy
   photo: unknown.jpg
   info: started Jan 2023
+  has_research_interest: 0
   email: syennapu@iu.edu
 
 
