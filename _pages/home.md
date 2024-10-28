@@ -19,7 +19,7 @@ permalink: /
 
 ### Funding support
 We are grateful for the funding support from the following agencies. <br/>
-NIH: R01 AG081951 (PI), U19 AG074879 (Co-I), U01 AG068057 (Co-I)<br/>
+NIH: R01 AG081951 (PI), U19 AG074879 (Co-I), U01 AG068057 (Co-I) <br/>
 NSF: CAREER 1942394 (PI), 2345235 (MPI) 
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIH.png" style="width: 210px; margin: 5px 20px">
