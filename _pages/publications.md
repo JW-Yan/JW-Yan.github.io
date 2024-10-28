@@ -10,7 +10,7 @@ permalink: /publications/
 <!-- Jump to [Journal](#journal), [Conference Proceedings](#proceedings). -->
 
 <!-- ### Journal<a name="journal"></a> -->
-### Peer reviewed 
+### Peer reviewed full papers
 
 [Complete list in Google scholar](https://scholar.google.com/citations?user=9ZIOjDQAAAAJ&hl=en)
 <br/>
