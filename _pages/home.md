@@ -18,11 +18,11 @@ permalink: /
 <b>[Openings](vacancies) now available for motivated PhD students and postdocs.</b>
 
 ### Funding support
-We are grateful for the funding support from the following agencies. 
-NIH: R01 AG081951 (PI), U19 AG074879 (Co-I), U01 AG068057 (Co-I)
+We are grateful for the funding support from the following agencies. <br/>
+NIH: R01 AG081951 (PI), U19 AG074879 (Co-I), U01 AG068057 (Co-I)<br/>
 NSF: CAREER 1942394 (PI), 2345235 (MPI) 
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIH.png" style="width: 210px; margin: 10px 20px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" style="width: 110px; margin: 10px 20px">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CTSI.png" style="width: 120px; margin: 10px 20px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NIH.png" style="width: 210px; margin: 5px 20px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_NSF.png" style="width: 110px; margin: 5px 20px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_CTSI.png" style="width: 120px; margin: 5px 20px">
 </figure>
