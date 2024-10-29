@@ -9,7 +9,7 @@ permalink: /research/
 <br/>
 Building on the extensive mult-omics and brain imaging datasets, we focus on the development and application of multi-omic computational models aimed at 1) exploring the functional mechanisms linked to AD risk variants (i.e., functional genomics) and 2) modeling disease progression to improve early detection and risk assessment. Our lab stands in between biomedical and AI research community, performing highly interdisciplinary research from computational modeling to investigation of specific disease problems. 
 
-Here are some projects that we currently work on:
+Here are some example projects that we currently work on:
 
 #### **Computational Methods to Mine Multi-omic Data for Systems Biology of Complex Diseases** 
 <!-- ![]({{ site.url }}{{ site.baseurl }}/images/respic/multi-omic_network.png){: style="width: 350px; float: right; margin: 0px"} -->
