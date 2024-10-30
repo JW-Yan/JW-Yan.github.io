@@ -12,7 +12,7 @@ Jump to [Master students](#master), [Bachelor students](#bachelor), [Lab visitor
 ### Principle Investigator  
 ![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 130px; float: left; margin: 30px 30px 50px 15px;"}
 <br/>
-#### Jingwen Yan, Ph.D. ([<ins>Curriculum Vitae</ins>]({{ site.url }}{{ site.baseurl }}/downloads/CV_Jingwen.pdf)
+#### Jingwen Yan, Ph.D. ([<ins>Curriculum Vitae</ins>]({{ site.url }}{{ site.baseurl }}/downloads/CV_Jingwen.pdf))
 *Associate Professor* <br/> 
 *Program director, Bioinformatics* <br/> 
 📧 [jingyan@iu.edu](mailto:jingyan@iu.edu)<br/>   
