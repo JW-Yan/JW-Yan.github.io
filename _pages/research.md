@@ -17,7 +17,7 @@ Genome wide association studies has revealed a set of significant variants assoc
 
 #### **Disease Progression.** 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/brain_progression.png){: style="width: 450px; float: right; margin: 10px 10px"}
-Alzheimer’s Disease is an irreversible neurodegenerative disorder with a long prodromal phase and no clinically validated cure. Detecting when and how molecular and imaging phenotype marker develop along AD progression will provide a template for understanding the underlying etiology of clinical syndromes and for improving early diagnosis, clinical trial recruitment and treatment assessment. We develop and apply interpretable AI approaches to profile, subtyping and temporally align the progression patterns across different data modalities. 
+Alzheimer’s Disease is an irreversible neurodegenerative disorder with a long prodromal phase and no clinically validated cure. Detecting when and how molecular and imaging phenotype marker develop along AD progression will provide a template for understanding the underlying etiology of clinical syndromes and for improving early diagnosis, clinical trial recruitment and treatment assessment. We develop and apply interpretable AI approaches to profile, subtyping and temporally align the progression patterns across molecular -omics and imaging modalities. 
 
 #### **Strategies for imbalanced, incomplete and heterogeneous multi-omic data.** 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/missing_data.png){: style="width: 450px; float: right; margin: 10px 10px"}
