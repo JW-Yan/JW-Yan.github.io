@@ -10,7 +10,7 @@ permalink: /teaching/
 <br/>
 ### Graduate courses
 
-- [INFO B-519 Introduction to Bioinformatics]([https://soic.iupui.edu/courses/info-b519/](https://luddy.indianapolis.iu.edu/degrees/courses/info-b519))
+- [INFO B-519 Introduction to Bioinformatics](https://luddy.indianapolis.iu.edu/degrees/courses/info-b519)
 - [INFO B-573 Programming for Science Informatics](https://luddy.indianapolis.iu.edu/degrees/courses/info-b573) 
 - INFO I-590 Application of AI in Biomedical Informatics **(Offered in Fall only)**
 - [INFO B-646 Computational Systems Biology](https://luddy.indianapolis.iu.edu/degrees/courses/info-b646) **(Offered in Spring only)**
