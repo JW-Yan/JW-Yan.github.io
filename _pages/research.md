@@ -15,7 +15,7 @@ Genome wide association studies has revealed a set of significant variants assoc
 
 <!-- In addition, GWAS hits usually emerge as clusters where a lead SNP with the highest significance is surrounded by other less significant nearby SNPs. Recent findings from haplotype analyses showed that that some haplotypes significantly outperform their lead SNPs in association, and risk/protective effects of lead SNPs sometimes depend on haplotype and genotype context. Therefore, intead of focusing only the lead SNPs, we investigate the impact of genetic interactions on the downstream molecular mechanisms by leveraging the advances in sequence-based deep genome annotation. Our recent results showed that several lead risk SNPs did exhibit enhanced loss or gain of function under certain synthetic genetic contexts, suggesting potential additional information hidden in the LD blocks (<ins>Pugalenthi et al, 2024</ins>). -->
 
-#### **Disease Progression.** 
+#### **Disease Progression** 
 ![]({{ site.url }}{{ site.baseurl }}/images/respic/brain_progression.png){: style="width: 450px; float: right; margin: 10px 10px"}
 Alzheimer’s Disease is an irreversible neurodegenerative disorder with a long prodromal phase and no clinically validated cure. Detecting when and how molecular and imaging phenotype marker develop along AD progression will provide a template for understanding the underlying etiology of clinical syndromes and for improving early diagnosis, clinical trial recruitment and treatment assessment. We develop and apply interpretable AI approaches to profile, subtyping and temporally align the progression patterns across molecular -omics and imaging modalities. 
 
