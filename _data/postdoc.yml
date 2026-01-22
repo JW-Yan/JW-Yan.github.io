@@ -1,0 +1,19 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Yaxuan Cui
+  photo: Yaxuan_Cui.jpg
+  info: started Nov. 2025
+  email: cuiyaxu@iu.edu
+  number_educ: 3
+  education1: PhD in Computer Science, University of Tsukuba
+  education2: MS in Educational Technology, Tianjin Normal University
+  education3: BS in Software Engineering, Tianjin Normal University
+  research_interest: deep learning, spatial transcriptomics, scRNA-Seq
