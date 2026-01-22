@@ -79,6 +79,66 @@ Dr. Jingwen Yan is an Associate Professor of Bioinformatics in the Department of
 
 {% endfor %}
 
+### Postdoc fellows
+{% assign number_printed = 0 %}
+{% for member in site.data.postdoc %}
+
+{% assign even_odd = number_printed | modulo: 2 %}
+
+<div class="row">
+
+<div class="col-sm-12 clearfix">
+  <div class="col-sm-2">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="100%" style="float: left" />
+  </div>
+  <div class="col-sm-10">
+  <h4>{{ member.name }}</h4>
+  <i> {{member.info}} </i> <br/>
+  📧 [{{member.email}}](mailto:{{member.email}}) <br/>
+  
+  <ul style="overflow: hidden">
+
+  {% if member.number_educ == 1 %}
+  <li> {{ member.education1 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 2 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 3 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 4 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  {% endif %}
+
+  {% if member.number_educ == 5 %}
+  <li> {{ member.education1 }} </li>
+  <li> {{ member.education2 }} </li>
+  <li> {{ member.education3 }} </li>
+  <li> {{ member.education4 }} </li>
+  <li> {{ member.education5 }} </li>
+  {% endif %}
+  </ul>
+    
+  Research interest:{{member.research_interest}}
+  </div>
+</div>
+
+{% assign number_printed = number_printed | plus: 1 %}
+
+</div>
+
+{% endfor %}
+
 
 ### Master Students<a name="master"></a>
 {% for member in site.data.master %}
