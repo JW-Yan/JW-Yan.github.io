@@ -1,3 +1,21 @@
+- name: Haoyuan Liu
+  photo: Haoyuan_Liu.jpg
+  info: started Aug 2025
+  email: haoyliu@iu.edu
+  number_educ: 2
+  education1: Master of Applied Statistics, Fudan University
+  education2: MS in Statistics, Shanghai Normal University
+  research_interest: Disease progression modeling, generative AI
+
+- name: Nachuan Du
+  photo: Nachuan_Du.JPG
+  info: started Aug 2025
+  email: dun@iu.edu
+  number_educ: 2
+  education1: MS in Biomedical Engineering, Tsinghua University
+  education2: BS in Pharmacy, Fudan University
+  research_interest: Brain aging, Computational Omics, Medical Imaging
+
 - name: Tianchuan Gao
   photo: Tianchuan_Gao.JPG
   info: started Aug 2023
@@ -13,7 +31,7 @@
   email: nemami@iu.edu
   number_educ: 1
   education1: MS in Biomedical Informatics, Tabriz University of Medical Sciences
-  research_interest: deep learning for molecular binding and single cell analysis
+  research_interest: Deep learning, DNA-protein binding
 
   
 - name: Yurika Upadhyaya
