@@ -5,7 +5,7 @@
   number_educ: 2
   education1: Master of Applied Statistics, Fudan University
   education2: BS in Statistics, Shanghai Normal University
-  research_interest: Disease progression modeling, generative AI
+  research_interest: Disease progression modeling
 
 - name: Nachuan Du
   photo: Nachuan_Du.jpg
@@ -23,7 +23,7 @@
   number_educ: 2
   education1: MS in Biostatistics, Columbia University
   education2: BS in Applied Mathematics, Syracuse University
-  research_interest: Disease progression profiling, machine learning, scRNA-seq Analysis
+  research_interest: Disease progression profiling, Proteomics, Metabolomics, scRNA-seq Analysis
 
 - name: Neda Emami
   photo: Neda_Emami.jpg
@@ -31,7 +31,7 @@
   email: nemami@iu.edu
   number_educ: 1
   education1: MS in Biomedical Informatics, Tabriz University of Medical Sciences
-  research_interest: Deep learning, DNA-protein binding
+  research_interest: DNA-protein binding, Patient subtyping
 
   
 - name: Yurika Upadhyaya
@@ -49,5 +49,5 @@
   email: tongming@iu.edu
   number_educ: 1
   education1: BS in Computer Science, Hangzhou Dianzi University
-  research_interest: Machine learning, algorithm, disease progression modeling
+  research_interest: Staging and subtyping of disease progression
 
