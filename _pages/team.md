@@ -13,11 +13,11 @@ Jump to [Master students](#master), [Bachelor students](#bachelor), [Lab visitor
 ![]({{ site.url }}{{ site.baseurl }}/images/profile.jpg){: style="width: 130px; float: left; margin: 30px 30px 50px 15px;"}
 <br/>
 #### Jingwen Yan, Ph.D. ([<ins>Curriculum Vitae</ins>]({{ site.url }}{{ site.baseurl }}/downloads/CV_Jingwen.pdf))
-*Associate Professor* <br/> 
+*Professor* <br/> 
 *Program director, Bioinformatics* <br/> 
 📧 [jingyan@iu.edu](mailto:jingyan@iu.edu)<br/>   
 
-Dr. Jingwen Yan is an Associate Professor of Bioinformatics in the Department of Biomedical Engineering and Informatics at Indiana University Indianapolis (IUI). Her research interests include bioinformatics, machine learning, brain imaging genomics and systems biology, and the applications in Alzheimer’s and other complex diseases. 
+Dr. Jingwen Yan is a Professor of Bioinformatics in the Department of Biomedical Engineering and Informatics at Indiana University Indianapolis (IUI). Her research interests include bioinformatics, machine learning, brain imaging genomics and systems biology, and the applications in Alzheimer’s and other complex diseases. 
 
 ### PhD Students
 {% assign number_printed = 0 %}
