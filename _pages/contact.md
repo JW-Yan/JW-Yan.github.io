@@ -9,7 +9,7 @@ permalink: /contact/
 <br/>
 ### **Dr. Jingwen Yan** 
 
-Associate Professor  
+Professor
 Director of Bioinformatics <br>
 Department of Biomedical Engineering and Informatics <br>
 Luddy School of Informatics, Computing and Engineering <br>
